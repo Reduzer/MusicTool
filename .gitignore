@@ -353,3 +353,6 @@ MigrationBackup/
 Keys.json
 keys.temp
 .Keys/
+
+#Configs
+server.json
